@@ -1,7 +1,7 @@
 # Teste-Caixa-Branca
 ## Critérios de Login Caixa Branca - (Grafo de Fluxo; Complexidade Ciclomática; Base de Caminhos)
 # Código Numerado: 
-<img src="numeracao do codigo.jpeg">
+img src="numeracao do codigo.jpeg"
 # Grafo de Fluxo:
 <img src="grafo de fluxo.png">
 # Cálculo de Complexidade Ciclomática:
